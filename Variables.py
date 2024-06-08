@@ -13,3 +13,9 @@ mi_variable = 15
 #Constantes
 MI_VARIABLE = "Hola"
 
+#Comentarios de una linea
+
+"""
+    comentarios de
+    mas lineas
+"""
